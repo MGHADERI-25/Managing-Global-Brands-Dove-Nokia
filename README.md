@@ -1,4 +1,5 @@
 # Managing Global Brands — Dove Brand Audit and Nokia Brand Analysis
+![Project Banner](Supporting-Materials/project-banner.png)
 
 **Course:** Managing Global Brands  
 **Institution:** International Business School (IBS), Budapest
